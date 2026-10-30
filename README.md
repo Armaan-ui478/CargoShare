@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="CargoShare/public/favicon.svg" alt="CargoShare logo" width="92" height="92" />
+  <img src="CargoShare/public/favicon.svg" alt="CargoShare logo" width="92" height="92" /> 
 
 # CargoShare
 
