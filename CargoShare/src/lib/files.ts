@@ -5,7 +5,7 @@
  */
 import dockerCompose from '../../docker-compose.yml?raw';
 import envExample from '../../.env.example?raw';
-import ciWorkflow from '../../.github/workflows/ci.yml?raw';
+import ciWorkflow from '../../../.github/workflows/ci.yml?raw';
 import migration from '../../server/sql/migrations/001_init.sql?raw';
 import apiIndex from '../../server/src/index.js?raw';
 import locks from '../../server/src/services/locks.js?raw';
